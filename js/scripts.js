@@ -1,3 +1,6 @@
+ alert('Hello world!)
+   let favoritefood = 'Burger';
+    document.write(favoritefood);
 let pokemonList =[
  {name: 'Ponyta' , height: '99.06', type: 'Fire'},
  { name: 'Slowpoke', height: '119.38', type: ['Water','Psychic']}, 
