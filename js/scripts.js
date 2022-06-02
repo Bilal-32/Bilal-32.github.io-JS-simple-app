@@ -1,4 +1,4 @@
- alert('Hello world!)
+ alert('Hello world!')
    let favoritefood = 'Burger';
     document.write(favoritefood);
 let pokemonList =[
